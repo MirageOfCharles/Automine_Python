@@ -67,7 +67,7 @@ The goal was just to make something that works, not something advanced.
 
 If you want to improve it later, you could add:
 
-automatic tool switching
-hotbar detection
-timer-based mining
-safer mining logic
+1. automatic tool switching
+2. hotbar detection
+3. timer-based mining
+4. safer mining logic
